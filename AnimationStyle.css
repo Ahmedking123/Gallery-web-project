@@ -48,15 +48,15 @@
         transform: translateX(-50%);
     }
     60%{
-        transform: translate(1270px);
+        transform: translate(50%);
     }
     70%{
-        transform: translate(1270px);
+        transform: translate(50%);
     }
 
 
     100%{
-        transform: translatex(1270px);
+        transform: translatex(50%);
     }
 }
 
