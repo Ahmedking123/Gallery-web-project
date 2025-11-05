@@ -74,6 +74,9 @@ body{
 
 .BottomContainer{
     height: 50px;
+    left: 0;
+    bottom: 0;
+    
 }
 .RightReservedLabel{
     font-size: 15;
@@ -83,10 +86,10 @@ html {
     scroll-behavior: smooth;
 }
 div{
-    scroll-margin-top: 80px;    
+    scroll-margin-top: 60px;    
 }
 .AboutPhoto{
-    width: 30%;
+    width: 45%;
     display: flex;
     justify-content: flex-end;
     border: 5px solid rgb(124, 124, 124);
